@@ -2,24 +2,24 @@
 
 # Mamadou Diallo Ndoye
 
-**Programador Â· Power Platform & datos**  
+**Programador · Power Platform & datos**  
 Girona, Catalunya
 
-[LinkedIn](https://www.linkedin.com/in/madev021) Â· [Email](mailto:mamadoudiallo2002@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/madev021) · [Email](mailto:mamadoudiallo2002@gmail.com)
 
 </div>
 
 ---
 
-### Sobre mÃ­
+### Sobre mí
 
 Desarrollador de software enfocado en el ecosistema **Microsoft**:
 
-- **Power Apps** y **Power Automate** â€” apps y flujos para procesos reales  
-- **Power BI** â€” reporting e indicadores  
-- **Azure Data Factory**, **Dataverse**, **SQL / data warehouse** â€” datos listos para negocio  
+- **Power Apps** y **Power Automate** — apps y flujos para procesos reales  
+- **Power BI** — reporting e indicadores  
+- **Azure Data Factory**, **Dataverse**, **SQL / data warehouse** — datos listos para negocio  
 
-TambiÃ©n desarrollo **Android (Kotlin)** y **web (TypeScript / React)**.
+También desarrollo **Android (Kotlin)** y **web (TypeScript / React)**.
 
 Actualmente: **Programador en Plataforma Educativa** (Girona).
 
@@ -28,32 +28,32 @@ Actualmente: **Programador en Plataforma Educativa** (Girona).
 ### Stack
 
 ```text
-Power Apps Â· Power Automate Â· Power BI Â· Azure Data Factory
-Dataverse Â· SQL Â· SharePoint Â· Microsoft 365
-Kotlin Â· Jetpack Compose Â· TypeScript Â· React
+Power Apps · Power Automate · Power BI · Azure Data Factory
+Dataverse · SQL · SharePoint · Microsoft 365
+Kotlin · Jetpack Compose · TypeScript · React
 ```
 
 ---
 
 ### Destacados
 
-| Proyecto | QuÃ© es |
+| Proyecto | Qué es |
 |----------|--------|
-| [**etable**](https://github.com/mad0021/etable) | App Android (Kotlin + Compose + Firebase) para gestiÃ³n de restaurantes |
+| [**etable**](https://github.com/mad0021/etable) | App Android (Kotlin + Compose + Firebase) para gestión de restaurantes |
 | [**porfolio**](https://github.com/mad0021/porfolio) | Base de portfolio en React + TypeScript + Vite |
 
 ---
 
-### FormaciÃ³n
+### Formación
 
-- **FP GS â€” Desarrollo de Aplicaciones Multiplataforma (DAM)** Â· Institut Pla de lâ€™Estany  
-- **Fundamentos de Ciberseguridad** Â· edX (42 h)
+- **FP GS — Desarrollo de Aplicaciones Multiplataforma (DAM)** · Institut Pla de l’Estany  
+- **Fundamentos de Ciberseguridad** · edX (42 h)
 
 ---
 
 ### Idiomas
 
-CatalÃ  (natiu) Â· Castellano (natiu) Â· English (C1) Â· FranÃ§ais (A1)
+Català (natiu) · Castellano (natiu) · English (C1) · Français (A1)
 
 ---
 
