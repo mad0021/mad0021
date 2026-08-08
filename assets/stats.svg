@@ -1,20 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-label="Perfil GitHub">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180">
   <rect width="420" height="180" rx="12" fill="#0B1F2A"/>
-  <rect x="0" y="0" width="420" height="180" rx="12" fill="none" stroke="#1E3D4D" stroke-width="2"/>
-  <text x="28" y="42" fill="#3DBE8B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">mad0021</text>
-  <text x="28" y="68" fill="#8FB8C9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">GitHub · Power Platform &amp; datos</text>
-
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
-    <text x="28" y="110" fill="#9BB7C4" font-size="13">Repos públicos</text>
-    <text x="180" y="110" fill="#EAF6F1" font-size="16" font-weight="700">5</text>
-
-    <text x="28" y="138" fill="#9BB7C4" font-size="13">Followers</text>
-    <text x="180" y="138" fill="#EAF6F1" font-size="16" font-weight="700">4</text>
-
-    <text x="240" y="110" fill="#9BB7C4" font-size="13">Following</text>
-    <text x="340" y="110" fill="#EAF6F1" font-size="16" font-weight="700">11</text>
-
-    <text x="240" y="138" fill="#9BB7C4" font-size="13">Foco</text>
-    <text x="290" y="138" fill="#5BB8E8" font-size="14" font-weight="700">MSFT + Kotlin</text>
-  </g>
+  <rect x="1" y="1" width="418" height="178" rx="12" fill="none" stroke="#1E3D4D" stroke-width="2"/>
+  <text x="28" y="42" fill="#3DBE8B" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">mad0021</text>
+  <text x="28" y="68" fill="#8FB8C9" font-family="Arial, Helvetica, sans-serif" font-size="13">GitHub - Power Platform and data</text>
+  <text x="28" y="110" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="13">Public repos</text>
+  <text x="180" y="110" fill="#EAF6F1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">5</text>
+  <text x="28" y="138" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="13">Followers</text>
+  <text x="180" y="138" fill="#EAF6F1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">4</text>
+  <text x="240" y="110" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="13">Following</text>
+  <text x="340" y="110" fill="#EAF6F1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">11</text>
+  <text x="240" y="138" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="13">Focus</text>
+  <text x="290" y="138" fill="#5BB8E8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">MSFT + Kotlin</text>
 </svg>

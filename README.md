@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="Mamadou Diallo Ndoye — Programador Power Platform & datos" width="100%" />
+  <img src="./assets/banner.png" alt="Mamadou Diallo Ndoye — Programador Power Platform & datos" width="100%" />
 </div>
 
 <br />
@@ -29,7 +29,7 @@ En **Plataforma Educativa** (Girona) trabajo el ciclo completo del ecosistema Mi
 También desarrollo producto en **Android (Kotlin + Jetpack Compose)** y **web (TypeScript / React)**.
 
 <div align="center">
-  <img src="./assets/pipeline.svg" alt="Pipeline Apps → Automate → Data → BI" width="720" />
+  <img src="./assets/pipeline.png" alt="Pipeline Apps → Automate → Data → BI" width="720" />
 </div>
 
 ---
@@ -127,8 +127,8 @@ Open to collaborate   →  Power Platform, datos y producto con impacto real
 
 <div align="center">
 
-<img src="./assets/stats.svg" height="170" alt="GitHub stats" />
-<img src="./assets/langs.svg" height="170" alt="Top languages" />
+<img src="./assets/stats.png" height="170" alt="GitHub stats" />
+<img src="./assets/langs.png" height="170" alt="Top languages" />
 
 <br /><br />
 

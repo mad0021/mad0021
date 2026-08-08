@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Pipeline: Apps, Automate, Data, BI">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
   <defs>
     <linearGradient id="p" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#2F9E75"/>
@@ -7,21 +7,16 @@
   </defs>
   <rect width="900" height="120" rx="16" fill="#0F2430"/>
   <path d="M70 60 H830" stroke="url(#p)" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
-    <circle cx="120" cy="60" r="28" fill="#16384A" stroke="#3DBE8B" stroke-width="2"/>
-    <text x="120" y="65" fill="#EAF6F1" font-size="13" font-weight="700">Apps</text>
-    <text x="120" y="102" fill="#9BB7C4" font-size="12">Power Apps</text>
-
-    <circle cx="340" cy="60" r="28" fill="#16384A" stroke="#3DBE8B" stroke-width="2"/>
-    <text x="340" y="65" fill="#EAF6F1" font-size="12" font-weight="700">Flow</text>
-    <text x="340" y="102" fill="#9BB7C4" font-size="12">Automate</text>
-
-    <circle cx="560" cy="60" r="28" fill="#16384A" stroke="#5BB8E8" stroke-width="2"/>
-    <text x="560" y="65" fill="#EAF6F1" font-size="13" font-weight="700">Data</text>
-    <text x="560" y="102" fill="#9BB7C4" font-size="12">ADF · SQL</text>
-
-    <circle cx="780" cy="60" r="28" fill="#16384A" stroke="#5BB8E8" stroke-width="2"/>
-    <text x="780" y="65" fill="#EAF6F1" font-size="14" font-weight="700">BI</text>
-    <text x="780" y="102" fill="#9BB7C4" font-size="12">Power BI</text>
-  </g>
+  <circle cx="120" cy="60" r="28" fill="#16384A" stroke="#3DBE8B" stroke-width="2"/>
+  <text x="120" y="65" text-anchor="middle" fill="#EAF6F1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Apps</text>
+  <text x="120" y="102" text-anchor="middle" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="12">Power Apps</text>
+  <circle cx="340" cy="60" r="28" fill="#16384A" stroke="#3DBE8B" stroke-width="2"/>
+  <text x="340" y="65" text-anchor="middle" fill="#EAF6F1" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Flow</text>
+  <text x="340" y="102" text-anchor="middle" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="12">Automate</text>
+  <circle cx="560" cy="60" r="28" fill="#16384A" stroke="#5BB8E8" stroke-width="2"/>
+  <text x="560" y="65" text-anchor="middle" fill="#EAF6F1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Data</text>
+  <text x="560" y="102" text-anchor="middle" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="12">ADF / SQL</text>
+  <circle cx="780" cy="60" r="28" fill="#16384A" stroke="#5BB8E8" stroke-width="2"/>
+  <text x="780" y="65" text-anchor="middle" fill="#EAF6F1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">BI</text>
+  <text x="780" y="102" text-anchor="middle" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="12">Power BI</text>
 </svg>
