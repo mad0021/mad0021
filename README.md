@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mad0021/mad0021/main/assets/banner.svg" alt="Mamadou Diallo Ndoye — Programador Power Platform & datos" width="100%" />
+  <img src="./assets/banner.svg" alt="Mamadou Diallo Ndoye — Programador Power Platform & datos" width="100%" />
 </div>
 
 <br />
@@ -29,7 +29,7 @@ En **Plataforma Educativa** (Girona) trabajo el ciclo completo del ecosistema Mi
 También desarrollo producto en **Android (Kotlin + Jetpack Compose)** y **web (TypeScript / React)**.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mad0021/mad0021/main/assets/pipeline.svg" alt="Pipeline Apps → Automate → Data → BI" width="720" />
+  <img src="./assets/pipeline.svg" alt="Pipeline Apps → Automate → Data → BI" width="720" />
 </div>
 
 ---
@@ -127,8 +127,8 @@ Open to collaborate   →  Power Platform, datos y producto con impacto real
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mad0021&show_icons=true&theme=radical&hide_border=true&bg_color=0B1F2A&title_color=3DBE8B&icon_color=5BB8E8&text_color=D7E8EE&ring_color=3DBE8B" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad0021&layout=compact&theme=radical&hide_border=true&bg_color=0B1F2A&title_color=3DBE8B&text_color=D7E8EE" height="160" alt="Top languages" />
+<img src="./assets/stats.svg" height="170" alt="GitHub stats" />
+<img src="./assets/langs.svg" height="170" alt="Top languages" />
 
 <br /><br />
 
