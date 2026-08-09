@@ -1,0 +1,36 @@
+# Generates contribution snake (awesome-profile style)
+# https://github.com/Platane/snk
+
+name: generate contribution snake
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/snake.yml'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: generate snake svgs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: mad0021
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
