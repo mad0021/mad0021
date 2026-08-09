@@ -1,138 +1,182 @@
-<!--
-  Profile README — mad0021
-  Visible en: https://github.com/mad0021
--->
+# LinkedIn v2 (English) — Mamadou Diallo Ndoye (`madev021`)
 
-<div align="center">
-  <img src="./assets/banner.png" alt="Mamadou Diallo Ndoye — Programador Power Platform & datos" width="100%" />
-</div>
+Profile language: **English**.  
+Profile: https://www.linkedin.com/in/madev021/
 
-<br />
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-madev021-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madev021)
-[![Email](https://img.shields.io/badge/Email-contactar-1A4A3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamadoudiallo2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mad0021-0B1F2A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mad0021)
-[![Location](https://img.shields.io/badge/Girona-Catalunya-123447?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Girona)
-
-</div>
+Replace what you already pasted with these versions.
 
 ---
 
-### Quién soy
+## 1) Headline (use A)
 
-Construyo software donde **negocio, datos y automatización** se encuentran.
-
-En **Plataforma Educativa** (Girona) trabajo el ciclo completo del ecosistema Microsoft: apps en **Power Apps**, procesos con **Power Automate**, pipelines con **Azure Data Factory** y reporting en **Power BI**, apoyado en **Dataverse / SQL**.
-
-También desarrollo producto en **Android (Kotlin + Jetpack Compose)** y **web (TypeScript / React)**.
-
-<div align="center">
-  <img src="./assets/pipeline.png" alt="Pipeline Apps → Automate → Data → BI" width="720" />
-</div>
-
----
-
-### Cómo trabajo
-
-| Enfoque | Qué entrego |
-|:--------|:------------|
-| **Apps** | Interfaces en Power Apps orientadas a procesos reales del día a día |
-| **Automatización** | Flujos en Power Automate que quitan trabajo manual y errores |
-| **Datos** | ADF + SQL / warehouse para tener datos fiables y listos |
-| **Insight** | Power BI para decidir con indicadores claros |
-| **Producto** | Apps Android y web cuando el caso lo pide |
-
----
-
-### Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
-  <img src="https://img.shields.io/badge/Dataverse-002050?style=flat-square&logo=microsoft&logoColor=white" alt="Dataverse" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
-  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white" alt="Microsoft 365" />
-  <br />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
----
-
-### Destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mad0021/etable">etable</a></h3>
-      <p>Sistema de gestión para restaurantes en <b>tablets Android</b>.</p>
-      <p><code>Kotlin</code> · <code>Jetpack Compose</code> · <code>Firebase</code> · offline-first</p>
-      <a href="https://github.com/mad0021/etable"><img src="https://img.shields.io/github/stars/mad0021/etable?style=flat-square&label=stars&color=1A4A3A" alt="stars etable" /></a>
-      <a href="https://github.com/mad0021/etable"><img src="https://img.shields.io/github/languages/top/mad0021/etable?style=flat-square" alt="lang etable" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mad0021/porfolio">porfolio</a></h3>
-      <p>Base de portfolio web orientado a reclutadores y producto.</p>
-      <p><code>React</code> · <code>TypeScript</code> · <code>Vite</code></p>
-      <a href="https://github.com/mad0021/porfolio"><img src="https://img.shields.io/github/stars/mad0021/porfolio?style=flat-square&label=stars&color=123447" alt="stars porfolio" /></a>
-      <a href="https://github.com/mad0021/porfolio"><img src="https://img.shields.io/github/languages/top/mad0021/porfolio?style=flat-square" alt="lang porfolio" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### Formación & idiomas
-
-<details open>
-<summary><b>Formación</b></summary>
-<br />
-
-- **FP GS — Desarrollo de Aplicaciones Multiplataforma (DAM)** · Institut Pla de l’Estany (Banyoles)
-- **Fundamentos de Ciberseguridad** · edX (42 h)
-- Bachillerato · Institut Santiago Sobrequés i Vidal (Girona)
-
-</details>
-
-<details open>
-<summary><b>Idiomas</b></summary>
-<br />
-
-| Idioma | Nivel |
-|:-------|:------|
-| Català | Natiu |
-| Castellano | Natiu |
-| English | C1 (EOI) |
-| Français | A1 (EOI) |
-
-</details>
-
----
-
-### Ahora mismo
-
+**A — recommended**
 ```text
-Plataforma Educativa  →  Power Apps · Automate · BI · Data Factory · Dataverse
-Open to collaborate   →  Power Platform, datos y producto con impacto real
+Power Platform Developer | Power Apps · Automate · Power BI · Data Factory | Dataverse & SQL | Girona
 ```
 
-<div align="center">
+**B — software-first**
+```text
+Software Developer · Microsoft Power Platform & Data | Apps + Automation + BI + ADF | Girona
+```
 
-<img src="./assets/stats.png" height="170" alt="GitHub stats" />
-<img src="./assets/langs.png" height="170" alt="Top languages" />
+---
 
-<br /><br />
+## 2) About — paste all
 
-<strong>¿Hablamos?</strong>  
-<a href="https://www.linkedin.com/in/madev021">LinkedIn</a> · <a href="mailto:mamadoudiallo2002@gmail.com">mamadoudiallo2002@gmail.com</a> · <a href="https://github.com/mad0021">GitHub</a>
+```text
+I build the bridge between business and technology in the Microsoft ecosystem.
 
-</div>
+I'm a software developer based in Girona (Plataforma Educativa). I design and ship solutions with Power Apps, Power Automate, Power BI, Azure Data Factory, Dataverse, and SQL / data warehousing — fewer manual processes, more reliable data, and clearer metrics for decisions.
+
+How I work:
+→ Start from the real process (not just the tool)
+→ Deliver apps and flows that non-technical teams can actually use
+→ Integrate and prepare data (ADF, SQL, warehouse)
+→ Close the loop with Power BI reporting
+
+I also build product beyond low-code: Android (Kotlin + Jetpack Compose + Firebase) and web (TypeScript + React). Example: eTable, a restaurant management system for tablets.
+
+Education
+• Higher Vocational Training (DAM) — Multiplatform App Development · Institut Pla de l’Estany
+• Cybersecurity Fundamentals · edX (42 h)
+
+Languages: Catalan & Spanish (native) · English C1 (EOI) · French A1
+
+GitHub → github.com/mad0021
+Email → mamadoudiallo2002@gmail.com
+
+Open to conversations about Power Platform, data, and product-minded software roles in Catalonia / remote Spain.
+```
+
+---
+
+## 3) Experience
+
+### Plataforma Educativa — Programmer / Developer
+Jan 2026 – Present · Girona · Full-time · On-site/Hybrid
+
+**Title to use:** `Programmer` or `Software Developer` (pick one; “Software Developer” searches better in English).
+
+```text
+Digitizing internal processes with Microsoft Power Platform and data.
+
+Day to day:
+• Build Power Apps (forms, roles, statuses, tracking)
+• Automate workflows with Power Automate (approvals, notifications, less manual work)
+• Integrate and move data with Azure Data Factory, SQL, and data warehouse
+• Build Power BI reporting for business KPIs
+• Provide technical support for apps and data on Dataverse / Microsoft 365 / SharePoint
+
+Goal: one digital channel per process, fewer errors, and clearer traceability.
+
+Keywords: Power Apps | Power Automate | Power BI | Azure Data Factory | Dataverse | SQL | SharePoint | Microsoft 365
+```
+
+### DoceoSoftware — Junior Programmer (internship)
+2024 – 2025 · Girona
+
+```text
+Internship focused on software development and internal application support.
+
+• Business modeling and rules
+• Microsoft Access database migration
+• Analysis, installation, documentation, and review of internal programs
+• Forms and support for application development
+
+Solid foundation in the software lifecycle and legacy data — useful for Power Platform and SQL work.
+```
+
+### MONBAKE — Warehouse operative
+Apr 2023 – Oct 2023 · Aiguaviva
+
+```text
+Warehouse operations and production-line support.
+(Operational experience; my professional focus is now software development / Power Platform.)
+```
+
+---
+
+## 4) Education
+
+1. **Institut Pla de l’Estany** — Higher VET / CFGS DAM (Multiplatform Application Development)  
+2. **edX** — Cybersecurity Fundamentals (42 h)  
+3. **Institut Santiago Sobrequés i Vidal** — Upper secondary education (Bachillerato)  
+
+In Intro: show current job, not school.  
+If DAM is listed as Montilivi → change to Pla de l’Estany.
+
+---
+
+## 5) Skills
+
+**Pinned (top 3):**
+1. Microsoft Power Platform *(or Power Apps)*  
+2. Power Automate  
+3. Power BI  
+
+**Must-have list:**
+Power Apps · Power Automate · Power BI · Azure Data Factory · Microsoft Dataverse · SQL · SharePoint · Microsoft 365 · Kotlin · TypeScript  
+
+**Remove / demote:** warehouse, logistics, forklift, accounting, Excel as #1 skill.
+
+---
+
+## 6) Featured (order)
+
+1. GitHub → https://github.com/mad0021  
+2. eTable → https://github.com/mad0021/etable  
+3. Updated CV PDF  
+4. Portfolio site (when live)
+
+---
+
+## 7) Projects
+
+**eTable**
+```text
+Android restaurant management system for tablets.
+Kotlin · Jetpack Compose · Firebase · offline-first · Material 3 · ES/CA/EN
+→ github.com/mad0021/etable
+```
+
+**Portfolio**
+```text
+Technical portfolio (React + TypeScript + Vite) focused on Power Platform & data.
+→ github.com/mad0021/porfolio
+```
+
+---
+
+## 8) Banner
+
+File: `linkedin-profile/banner.png` (1584×396)  
+Profile → background camera → upload.
+
+---
+
+## 9) Optional update post
+
+```text
+Updated my LinkedIn to match what I actually build:
+
+Power Apps · Power Automate · Power BI · Azure Data Factory · Dataverse / SQL
+
+If you work with Microsoft Power Platform or data in Catalonia (or remote Spain), happy to connect.
+
+GitHub: github.com/mad0021
+```
+
+---
+
+## Checklist
+
+- [ ] Profile language / content in English  
+- [ ] Headline A  
+- [ ] About (EN)  
+- [ ] PE experience (EN)  
+- [ ] Doceo (EN)  
+- [ ] Industry = IT Services and IT Consulting  
+- [ ] Pinned skills: Power Platform / Automate / BI  
+- [ ] Featured: GitHub + eTable  
+- [ ] Banner uploaded  
+- [ ] Public view checked in incognito  
