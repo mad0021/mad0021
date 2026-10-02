@@ -6,12 +6,12 @@
   <path d="M8 160 V172 H20" fill="none" stroke="#7a756e" stroke-width="1"/>
   <path d="M412 160 V172 H400" fill="none" stroke="#7a756e" stroke-width="1"/>
   <text x="24" y="40" fill="#cdc4ba" font-family="Consolas, Menlo, monospace" font-size="14" letter-spacing="2">MAD0021</text>
-  <text x="24" y="64" fill="#958f87" font-family="Segoe UI, Arial, sans-serif" font-size="13">GitHub Â· Power Platform + data</text>
+  <text x="24" y="64" fill="#958f87" font-family="Segoe UI, Arial, sans-serif" font-size="13">GitHub Â| Power Platform + data</text>
   <line x1="24" y1="82" x2="396" y2="82" stroke="#cdc4ba" stroke-opacity="0.18"/>
   <text x="24" y="112" fill="#958f87" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1">REPOS</text>
   <text x="120" y="112" fill="#cdc4ba" font-family="Georgia, Times New Roman, serif" font-size="28">5</text>
   <text x="200" y="112" fill="#958f87" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1">FOLLOWERS</text>
   <text x="310" y="112" fill="#cdc4ba" font-family="Georgia, Times New Roman, serif" font-size="28">4</text>
   <text x="24" y="150" fill="#958f87" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1">FOCUS</text>
-  <text x="100" y="150" fill="#cdc4ba" font-family="Segoe UI, Arial, sans-serif" font-size="14">MSFT Â· Kotlin Â· TypeScript</text>
+  <text x="100" y="150" fill="#cdc4ba" font-family="Segoe UI, Arial, sans-serif" font-size="14">MSFT Â| Kotlin Â| TypeScript</text>
 </svg>

@@ -4,10 +4,10 @@
   <circle cx="900" cy="100" r="140" fill="none" stroke="#cdc4ba" stroke-opacity="0.10" stroke-width="1"/>
   <line x1="40" y1="40" x2="40" y2="320" stroke="#cdc4ba" stroke-opacity="0.26"/>
   <text x="28" y="190" fill="#958f87" font-family="Consolas, Menlo, monospace" font-size="10" letter-spacing="4" transform="rotate(-90 28 190)">SYSTEM DOSSIER</text>
-  <text x="70" y="70" fill="#7a756e" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="3">— 作 · MADEV · PUBLIC ♦</text>
+  <text x="70" y="70" fill="#7a756e" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="3">- MADEV - PUBLIC</text>
   <text x="70" y="145" fill="#cdc4ba" font-family="Georgia, Times New Roman, serif" font-size="72">MAMADOU</text>
   <text x="70" y="185" fill="#b0a9a0" font-family="Segoe UI, Arial, sans-serif" font-size="20">I build Microsoft tools people actually use</text>
-  <text x="70" y="214" fill="#958f87" font-family="Segoe UI, Arial, sans-serif" font-size="15">Full-stack · Power Platform · Girona</text>
+  <text x="70" y="214" fill="#958f87" font-family="Segoe UI, Arial, sans-serif" font-size="15">Full-stack / Power Platform / Girona</text>
   <line x1="70" y1="238" x2="680" y2="238" stroke="#cdc4ba" stroke-opacity="0.18"/>
   <text x="70" y="268" fill="#958f87" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="2">ROLE</text>
   <text x="130" y="268" fill="#cdc4ba" font-family="Segoe UI, Arial, sans-serif" font-size="14">Software Developer</text>
@@ -21,5 +21,4 @@
   <text x="330" y="307" text-anchor="middle" fill="#cdc4ba" font-family="Consolas, Menlo, monospace" font-size="10" letter-spacing="1">BI</text>
   <rect x="366" y="290" width="72" height="26" fill="#cdc4ba"/>
   <text x="402" y="307" text-anchor="middle" fill="#000000" font-family="Consolas, Menlo, monospace" font-size="10" letter-spacing="1">DATA</text>
-  <text x="980" y="310" fill="#cdc4ba" fill-opacity="0.07" font-family="Georgia, Times New Roman, serif" font-size="120">作</text>
 </svg>
