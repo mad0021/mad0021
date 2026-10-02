@@ -1,14 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180">
-  <rect width="420" height="180" rx="12" fill="#0B1F2A"/>
-  <rect x="1" y="1" width="418" height="178" rx="12" fill="none" stroke="#1E3D4D" stroke-width="2"/>
-  <text x="28" y="42" fill="#3DBE8B" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">mad0021</text>
-  <text x="28" y="68" fill="#8FB8C9" font-family="Arial, Helvetica, sans-serif" font-size="13">GitHub - Power Platform and data</text>
-  <text x="28" y="110" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="13">Public repos</text>
-  <text x="180" y="110" fill="#EAF6F1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">5</text>
-  <text x="28" y="138" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="13">Followers</text>
-  <text x="180" y="138" fill="#EAF6F1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">4</text>
-  <text x="240" y="110" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="13">Following</text>
-  <text x="340" y="110" fill="#EAF6F1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">11</text>
-  <text x="240" y="138" fill="#9BB7C4" font-family="Arial, Helvetica, sans-serif" font-size="13">Focus</text>
-  <text x="290" y="138" fill="#5BB8E8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">MSFT + Kotlin</text>
+  <rect width="420" height="180" fill="#000000"/>
+  <rect x="0.5" y="0.5" width="419" height="179" fill="none" stroke="#cdc4ba" stroke-opacity="0.26"/>
+  <path d="M8 20 V8 H20" fill="none" stroke="#7a756e" stroke-width="1"/>
+  <path d="M412 20 V8 H400" fill="none" stroke="#7a756e" stroke-width="1"/>
+  <path d="M8 160 V172 H20" fill="none" stroke="#7a756e" stroke-width="1"/>
+  <path d="M412 160 V172 H400" fill="none" stroke="#7a756e" stroke-width="1"/>
+  <text x="24" y="40" fill="#cdc4ba" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">MAD0021</text>
+  <text x="24" y="64" fill="#958f87" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">GitHub · Power Platform + data</text>
+  <line x1="24" y1="82" x2="396" y2="82" stroke="#cdc4ba" stroke-opacity="0.18"/>
+  <text x="24" y="112" fill="#958f87" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1">REPOS</text>
+  <text x="120" y="112" fill="#cdc4ba" font-family="Georgia, 'Times New Roman', serif" font-size="28">5</text>
+  <text x="200" y="112" fill="#958f87" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1">FOLLOWERS</text>
+  <text x="310" y="112" fill="#cdc4ba" font-family="Georgia, 'Times New Roman', serif" font-size="28">4</text>
+  <text x="24" y="150" fill="#958f87" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1">FOCUS</text>
+  <text x="100" y="150" fill="#cdc4ba" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">MSFT · Kotlin · TypeScript</text>
 </svg>

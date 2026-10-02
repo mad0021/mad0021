@@ -2,27 +2,40 @@
 
 <div align="center">
 
-  <img src="./assets/banner.png" alt="banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Mamadou Diallo Ndoye — system dossier" width="100%" />
 
-  <br /><br />
+  <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=3DBE8B&center=true&vCenter=true&multiline=true&width=780&height=90&lines=I+build+Microsoft+tools+people+actually+use;Power+Apps+%C2%B7+Automate+%C2%B7+BI+%C2%B7+Data+Factory;Girona+%C2%B7+Android+%26+Web+when+it+matters" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3200&pause=1000&color=CDC4BA&center=true&vCenter=true&multiline=true&width=820&height=80&lines=I+build+Microsoft+tools+people+actually+use;Power+Apps+%C2%B7+Automate+%C2%B7+BI+%C2%B7+Data;Girona+%C2%B7+CA%2FES+%C2%B7+EN+C1" alt="Typing headline" />
 
-  <br />
+  <br/>
 
-  <img src="./assets/divider.png" width="100%" alt="" />
+  <img src="./assets/divider.svg" width="100%" alt="" />
 
   <p>
-    <a href="https://www.linkedin.com/in/madev021/"><img src="https://img.shields.io/badge/LinkedIn-madev021-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:mamadoudiallo2002@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-1A4A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/mad0021?tab=repositories"><img src="https://img.shields.io/badge/GitHub-mad0021-0B1F2A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/mad0021/dev-portfolio"><img src="https://img.shields.io/badge/Portfolio-dev--portfolio-000000?style=for-the-badge&labelColor=0a0a0a&color=cdc4ba" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/madev021/"><img src="https://img.shields.io/badge/LinkedIn-madev021-000000?style=for-the-badge&logo=linkedin&logoColor=cdc4ba&labelColor=0a0a0a&color=cdc4ba" alt="LinkedIn" /></a>
+    <a href="mailto:mamadoudiallo2002@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-000000?style=for-the-badge&logo=gmail&logoColor=cdc4ba&labelColor=0a0a0a&color=cdc4ba" alt="Email" /></a>
+    <a href="https://github.com/mad0021?tab=repositories"><img src="https://img.shields.io/badge/GitHub-mad0021-000000?style=for-the-badge&logo=github&logoColor=cdc4ba&labelColor=0a0a0a&color=cdc4ba" alt="GitHub" /></a>
   </p>
 
 </div>
 
 ---
 
-### The vibe
+```text
+— 作 · SYSTEM DOSSIER ♦
+
+ROLE ........ Software Developer
+BASE ........ Girona, Catalunya
+FOCUS ....... Power Platform · data · product code
+STACK ....... TS · Kotlin · Azure · Dataverse
+LANG ........ CA · ES · EN
+```
+
+---
+
+### 00 // Signal
 
 ```text
 Spreadsheets everywhere.
@@ -31,61 +44,61 @@ Reports nobody trusts.
         ↓
    Power Platform + data
         ↓
-Tools people actually open on Monday morning.
+Tools people open on Monday morning.
 ```
 
 <div align="center">
-  <img src="./assets/pipeline.png" alt="Apps → Automate → Data → BI" width="780" />
+  <img src="./assets/pipeline.svg" alt="Apps → Automate → Data → BI" width="780" />
 </div>
 
 ---
 
-### Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,ts,react,firebase,dotnet,azure,nodejs&theme=dark" alt="skills" />
-</div>
-
-<br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Automate" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADF" />
-  <img src="https://img.shields.io/badge/Dataverse-002050?style=for-the-badge&logo=microsoft&logoColor=white" alt="Dataverse" />
-</p>
-
----
-
-### Now shipping
+### 01 // Now
 
 | Mode | What |
 |:-----|:-----|
 | **Day job** | Plataforma Educativa — apps, flows, BI, ADF, Dataverse, SQL |
 | **Side product** | [etable](https://github.com/mad0021/etable) — restaurant system on Android tablets |
-| **Web** | [porfolio](https://github.com/mad0021/porfolio) — React + TypeScript + Vite |
+| **Web** | [dev-portfolio](https://github.com/mad0021/dev-portfolio) — Next.js · bone/ink editorial |
 
 ---
 
-### Pulse
+### 02 // Stack
 
 <div align="center">
-  <img src="./assets/stats.png" height="165" alt="stats" />
-  <img src="./assets/langs.png" height="165" alt="langs" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,ts,react,firebase,dotnet,azure,nodejs&theme=dark" alt="skills" />
 </div>
 
-<br />
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_Apps-000000?style=for-the-badge&logo=powerapps&logoColor=cdc4ba&labelColor=0a0a0a" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power_Automate-000000?style=for-the-badge&logo=powerautomate&logoColor=cdc4ba&labelColor=0a0a0a" alt="Automate" />
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=cdc4ba&labelColor=0a0a0a" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Data_Factory-000000?style=for-the-badge&logo=microsoftazure&logoColor=cdc4ba&labelColor=0a0a0a" alt="ADF" />
+  <img src="https://img.shields.io/badge/Dataverse-000000?style=for-the-badge&logo=microsoft&logoColor=cdc4ba&labelColor=0a0a0a" alt="Dataverse" />
+</p>
+
+---
+
+### 03 // Pulse
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mad0021&bg_color=0B1F2A&color=3DBE8B&line=5BB8E8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity graph" />
+  <img src="./assets/stats.svg" height="165" alt="stats" />
+  <img src="./assets/langs.svg" height="165" alt="langs" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mad0021&bg_color=000000&color=cdc4ba&line=b0a9a0&point=cdc4ba&area=true&hide_border=true&area_color=cdc4ba" width="100%" alt="activity graph" />
 </div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mad0021/mad0021/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mad0021/mad0021/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/mad0021/mad0021/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/mad0021/mad0021/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -93,14 +106,15 @@ Tools people actually open on Monday morning.
 
 <div align="center">
 
-### Let’s talk
+### 04 // Contact
 
 <a href="https://www.linkedin.com/in/madev021/"><b>LinkedIn</b></a> ·
 <a href="mailto:mamadoudiallo2002@gmail.com"><b>Email</b></a> ·
+<a href="https://github.com/mad0021/dev-portfolio"><b>Portfolio</b></a> ·
 <a href="https://github.com/mad0021/etable"><b>eTable</b></a>
 
-<img src="./assets/divider.png" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<sub>CA/ES native · English C1 · DAM · Girona</sub>
+<sub>作 · CA/ES native · English C1 · DAM · Girona</sub>
 
 </div>
