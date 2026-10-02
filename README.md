@@ -1,107 +1,27 @@
-<!-- https://github.com/mad0021 — Ryoku-style dossier. No badges / typing / snake. -->
+<!-- Pure Ryoku dossier — SVG panels only (works on GitHub light mode) -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="MAMADOU — system dossier" width="100%" />
-</div>
 
-<br/>
+<img src="./assets/banner.svg" alt="MAMADOU — system dossier" width="100%" />
 
-```text
-— 作 · SYSTEM DOSSIER ♦
+<img src="./assets/signal.svg" alt="00 Signal" width="100%" />
 
-@ mad0021 · Software Developer
-LOCAL · Girona, Catalunya
+<img src="./assets/pipeline.svg" alt="Apps Flow Data BI" width="100%" />
 
-ROLE ........ Software Developer
-BASE ........ Girona, Catalunya
-FOCUS ....... Power Platform
-STACK ....... TS · Kotlin · Azure
-LANG ........ CA · ES · EN
+<img src="./assets/now.svg" alt="01 Now" width="100%" />
 
-INK RAMP · bone on black
-```
+<img src="./assets/stack.svg" alt="02 Stack" width="100%" />
 
-```text
-I build Microsoft tools people actually use.
-Full-stack · Power Platform · tools that open on Monday morning.
-```
+<img src="./assets/contact.svg" alt="03 Contact" width="100%" />
 
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</div>
+<p>
+<a href="https://github.com/mad0021/dev-portfolio">Portfolio</a>
+·
+<a href="https://github.com/mad0021/etable">eTable</a>
+·
+<a href="https://www.linkedin.com/in/madev021/">LinkedIn</a>
+·
+<a href="mailto:mamadoudiallo2002@gmail.com">Email</a>
+</p>
 
-### 00 // Signal
-
-```text
-Spreadsheets everywhere.
-Approvals stuck in email.
-Reports nobody trusts.
-              ↓
-      Power Platform + data
-              ↓
-Tools people open on Monday morning.
-```
-
-<div align="center">
-  <img src="./assets/pipeline.svg" alt="Apps → Flow → Data → BI" width="820" />
-</div>
-
-### 01 // Now
-
-```text
-DAY JOB ........ Plataforma Educativa
-                 Apps · Flows · BI · ADF · Dataverse · SQL
-
-SIDE ........... eTable
-                 Android tablets · Kotlin · Compose · Firebase
-                 → github.com/mad0021/etable
-
-WEB ............ dev-portfolio
-                 Next.js · bone/ink editorial
-                 → github.com/mad0021/dev-portfolio
-```
-
-### 02 // Stack
-
-```text
-01  Power Apps
-02  Power Automate
-03  Power BI
-04  Data Factory
-05  Dataverse
-06  SQL
-07  Kotlin
-08  TypeScript
-09  React
-10  Azure
-```
-
-### 03 // Vitals
-
-```text
-2  NOW .............. active tracks
-2  PROJECTS ......... public builds
-10 STACK ............ tools in rotation
-1  SOURCE ........... this profile
-```
-
-<div align="center">
-  <img src="./assets/stats.svg" height="160" alt="vitals" />
-  &nbsp;
-  <img src="./assets/langs.svg" height="160" alt="languages" />
-</div>
-
-### 04 // Contact
-
-```text
-PORTFOLIO ...... github.com/mad0021/dev-portfolio
-LINKEDIN ....... linkedin.com/in/madev021
-EMAIL .......... mamadoudiallo2002@gmail.com
-GITHUB ......... github.com/mad0021
-```
-
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
-  <br/>
-  <sub>作 · CA/ES native · English C1 · DAM · Girona</sub>
 </div>
