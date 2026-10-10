@@ -29,10 +29,12 @@ Web Worker with `OffscreenCanvas`. Vanilla JS, no build step.<br/>
 </td>
 <td width="50%" valign="top">
 
-**[eTable](https://github.com/mad0021/etable)**<br/>
-Restaurant management for Android tablets, built offline-first. Admin and waiter roles, real-time
-sync, and the floor keeps working when the wifi drops.<br/>
-<sub>Kotlin · Jetpack Compose · Firebase · Material 3</sub>
+**[eTable 2.0](https://github.com/mad0021/etable-supabase)**<br/>
+Restaurant floor management for Android tablets: orders by course, a live table map and an admin
+panel. Migrated from Firebase to Supabase behind a Firestore-compatible layer, with role-based
+row-level security tested in CI and a Material 3 Expressive redesign.
+([v1 on Firebase](https://github.com/mad0021/etable))<br/>
+<sub>Kotlin · Jetpack Compose · Material 3 Expressive · Supabase · PostgreSQL</sub>
 
 </td>
 </tr>
@@ -40,7 +42,7 @@ sync, and the floor keeps working when the wifi drops.<br/>
 
 ### Stack
 
-`Power Apps` `Power Automate` `Power BI` `Dataverse` `Data Factory` `SQL` `Azure` `Kotlin` `TypeScript` `React`
+`Power Apps` `Power Automate` `Power BI` `Dataverse` `Data Factory` `SQL` `Azure` `Kotlin` `Jetpack Compose` `Supabase` `PostgreSQL` `TypeScript` `React`
 
 Languages: Catalan and Spanish (native), English (C1).
 
