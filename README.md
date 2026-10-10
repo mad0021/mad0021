@@ -29,11 +29,10 @@ Web Worker with `OffscreenCanvas`. Vanilla JS, no build step.<br/>
 </td>
 <td width="50%" valign="top">
 
-**[eTable 2.0](https://github.com/mad0021/etable-supabase)**<br/>
+**[eTable](https://github.com/mad0021/etable-supabase)**<br/>
 Restaurant floor management for Android tablets: orders by course, a live table map and an admin
-panel. Migrated from Firebase to Supabase behind a Firestore-compatible layer, with role-based
-row-level security tested in CI and a Material 3 Expressive redesign.
-([v1 on Firebase](https://github.com/mad0021/etable))<br/>
+panel. Real-time sync on Supabase, role-based row-level security tested in CI, and a
+Material 3 Expressive interface.<br/>
 <sub>Kotlin · Jetpack Compose · Material 3 Expressive · Supabase · PostgreSQL</sub>
 
 </td>
