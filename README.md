@@ -1,5 +1,5 @@
 <a href="https://mad0021.github.io/?lang=en">
-  <img src="./assets/hero.jpg" alt="MAMADOV: a dithered marble bust under a beam of light, with a halo and an orbit line" width="100%" />
+  <img src="./assets/hero.jpg" alt="MADEV: a dithered marble bust under a beam of light, with a halo and an orbit line" width="100%" />
 </a>
 
 ### Software developer, Power Platform & data
